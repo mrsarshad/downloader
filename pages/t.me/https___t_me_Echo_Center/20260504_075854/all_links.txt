@@ -1,0 +1,15 @@
+//telegram.org/
+//telegram.org/css/bootstrap.min.css?3
+//telegram.org/css/font-roboto.css?1
+//telegram.org/css/telegram.css?249
+//telegram.org/dl?tme=7fde4f3cf79ee33ed9_5776387182880789653
+//telegram.org/img/apple-touch-icon.png
+//telegram.org/img/favicon-16x16.png
+//telegram.org/img/favicon-32x32.png
+//telegram.org/img/favicon.ico
+//telegram.org/img/website_icon.svg?4
+//telegram.org/js/tgwallpaper.min.js?3
+/css/myriad.css
+/s/Echo_Center
+https://cdn4.telesco.pe/file/armOum_WYYjHFxM1skJpXI2RPmL5o5IYuQQH7_JJp5FM1G6uh15yM2FkRSCINSc35ahRFuqi5Zuj168V_hBHKCuTjXKP9l6EdRDUjix75i04x4qnGRw0ploL3DBOm6S1pf8PqWyTgErnx9q0CNozEm-HHqrGtUbYQSkr7CMXRxQsgfY3KsVe2ABHqeZGrIgCnwQAnmB6ku8oh4ZwEZD2sNwIqMnAFDVIdBELRAqGhulfRhx42Azyeca3752wN6AfFVH3rnolK-vMr-UrfG1OvmB1WWJtwdpDsGRv4InWdE8VTnAxBvqlhMF6ZeDZZjdWlqlPKknf6nBJw8GL1_A1Pw.jpg
+tg://resolve?domain=Echo_Center
